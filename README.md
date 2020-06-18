@@ -1,11 +1,3 @@
-
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Audio Samples</title>
-</head>
-
 <body style="text-align: left;">
 <h1>Singing Demos for "XiaoiceSing: A High-Quality and Integrated Singing Voice Synthesis System"</h1>
 
