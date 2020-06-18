@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<!-- saved from url=(0030)https://xiaoicesing.github.io/ -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <title>Audio Samples</title>
